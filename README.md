@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🌱 I'm Currently learning Android,MERN,React.js<br><br>📫 How to reach me dilshananupriya@icloud.com<br><br>👨‍💻 I'm an Udergraduate at SLIIT<br><br>👀 Ask me about Web Development,Java</p>
+<p align="left">🌱 I'm Currently learning Angular,Laravel<br><br>📫 How to reach me anupriyacooray@gmail.com<br><br>👨‍💻 I'm an Udergraduate at SLIIT<br><br>👀 Ask me about Web Development,Java,Java Script</p>
 
 ###
 
